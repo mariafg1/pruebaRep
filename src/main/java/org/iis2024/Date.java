@@ -19,6 +19,7 @@ public class Date {
   private final int day;
   private final int month;
   private final int year;
+  public static String placeholder;
 
   /**
    *
