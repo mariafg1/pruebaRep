@@ -29,7 +29,7 @@ public class Date {
   }
 
   /**
-   * Retrieves the month component of this date.
+   * 
    *
    * @return The month of the year (1-12).
    */
