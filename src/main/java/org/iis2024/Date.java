@@ -19,6 +19,7 @@ public class Date {
   private final int hour;
   private final int day;
   private final int month;
+  private final int seconds;
   private final int year;
   public static String placeholder;
 
@@ -29,6 +30,9 @@ public class Date {
 
   public int getHour(){
     return hour;
+  }
+   public int getSeconds(){
+    return seconds;
   }
   public int getDay() {
     return day;
